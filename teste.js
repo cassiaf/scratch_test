@@ -1,4 +1,11 @@
-/*
+/* this program is simply the merge of the arduino experimental extension for Scratch 
+(from http://khanning.github.io/scratch-arduino-extension/arduino_extension.js)
+and the synt experimental extenson for Scratch 
+(from https://github.com/ericrosenbaum/tone-synth-extension/blob/gh-pages/tone-synth.js)
+
+
+--------------------------------------------------------
+
  *This program is free software: you can redistribute it and/or modify
  *it under the terms of the GNU General Public License as published by
  *the Free Software Foundation, either version 3 of the License, or
